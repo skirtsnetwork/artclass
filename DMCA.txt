@@ -1,0 +1,9 @@
+Hi. I am a admin for Art Class.
+
+It has come to my attention that you have used our assets in a way that violates our license. You have modified our assets to claim it was made by you. All of our assets are under a license that prevents that.
+
+You have 48h to remove our assets or I will issue a DMCA takedown on your repository.
+
+Open a ticket in our server (discord.gg/desmos) to discuss further action.
+
+- Asleep, administrator of Art Class
